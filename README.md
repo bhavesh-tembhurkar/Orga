@@ -6,7 +6,7 @@ This project demonstrates modern app development practices on the Apple platform
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Secure User Authentication:** Complete login and first-time password setup flow.
 * **Keychain Integration:** Master password securely stored in the macOS Keychain using the `KeychainAccess` library.
@@ -23,7 +23,7 @@ This project demonstrates modern app development practices on the Apple platform
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * **Language:** Swift  
 * **Frameworks:** SwiftUI, AppKit, Combine  
@@ -33,7 +33,7 @@ This project demonstrates modern app development practices on the Apple platform
 
 ---
 
-## 📸 Demo
+##  Demo
 
 You can view the live demo of the application here: [Orga Live Demo] LInk : https://bhavesh-tembhurkar.github.io/my-portfolio/orga.html  
 
